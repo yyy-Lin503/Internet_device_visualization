@@ -4,7 +4,8 @@
 本项目仅用于专业课期末作业
 
 **项目展示** 
-项目预览地址：![[https://yyy-lin503.github.io/Internet_device_visualization/]( https://yyy-lin503.github.io/Internet_device_visualization/ )
+
+项目预览地址：![https://yyy-lin503.github.io/Internet_device_visualization/]( https://yyy-lin503.github.io/Internet_device_visualization/ )
 
 ![项目展示](perview/perview.gif)
 
